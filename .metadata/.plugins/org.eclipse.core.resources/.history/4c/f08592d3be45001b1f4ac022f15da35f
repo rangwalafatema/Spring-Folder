@@ -1,0 +1,8 @@
+package com.coursespring.springdemo;
+
+public class BaseballCoach {
+	public String getDailyWorkout()
+	{
+		return ""
+	}
+}

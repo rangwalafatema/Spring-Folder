@@ -1,0 +1,5 @@
+package com.Fatema.Practice;
+
+public interface Vehicle {
+	void
+}

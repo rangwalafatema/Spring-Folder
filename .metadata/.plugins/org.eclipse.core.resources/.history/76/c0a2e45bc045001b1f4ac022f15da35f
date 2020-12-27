@@ -1,0 +1,13 @@
+package com.coursespring.springdemo;
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		
+		Coach theCoachcoach=new TrackCoach();
+		
+		System.out.println(coach.getDailyWorkout());
+
+	}
+
+}

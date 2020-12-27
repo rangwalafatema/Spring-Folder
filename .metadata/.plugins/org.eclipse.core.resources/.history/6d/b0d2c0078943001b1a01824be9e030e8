@@ -1,0 +1,11 @@
+package com.Fatema.Autowired_Practice;
+
+public class Tyre {
+	
+	private String brand;
+
+		
+	
+	
+
+}

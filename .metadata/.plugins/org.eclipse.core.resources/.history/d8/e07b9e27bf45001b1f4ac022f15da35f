@@ -1,0 +1,12 @@
+package com.coursespring.springdemo;
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		
+		BaseballCoach coach=new BaseballCoach();
+		
+
+	}
+
+}

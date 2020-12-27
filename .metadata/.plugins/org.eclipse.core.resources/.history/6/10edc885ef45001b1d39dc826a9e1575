@@ -1,0 +1,6 @@
+package com.coursespring.springdemo;
+
+public class CricketCoach implements Coach{
+
+	
+}

@@ -1,0 +1,7 @@
+package com.Fatema.Practice_Annotation;
+
+public class Car {
+	public void drive() {
+		System.out.println("Chal raha hai...");
+	}
+}

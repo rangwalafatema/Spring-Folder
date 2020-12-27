@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.fatema.First.Car"/>
+<fullyQualifiedTypeName name="com.fatema.First.Vehicle"/>
+<fullyQualifiedTypeName name="com.fatema.First.Tyre"/>
+<fullyQualifiedTypeName name="com.fatema.First.Bike"/>
+<fullyQualifiedTypeName name="com.fatema.SpringAnno.AppConfig"/>
+<fullyQualifiedTypeName name="com.fatema.SpringAnno.MI"/>
+<fullyQualifiedTypeName name="com.fatema.SpringAnno.MobileProcessor"/>
+<fullyQualifiedTypeName name="com.fatema.SpringAnno.Snapdragon"/>
+<fullyQualifiedTypeName name="com.Fatema.Practice.Car"/>
+<fullyQualifiedTypeName name="com.Fatema.Practice.Bike"/>
+<fullyQualifiedTypeName name="com.Fatema.Practice.Vehicle"/>
+<fullyQualifiedTypeName name="com.Fatema.Practice_Annotation.Tyre"/>
+<fullyQualifiedTypeName name="com.Fatema.Practice_Annotation.Vehicle"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.portable.ApplicationException"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="com.Fatema.Autowired_Practice.Car"/>
+<fullyQualifiedTypeName name="com.Fatema.Autowired_Practice.Bike"/>
+<fullyQualifiedTypeName name="com.Fatema.Autowired_Practice.Vehicle"/>
+<fullyQualifiedTypeName name="com.Fatema.Autowired_Practice.Tyre"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="com.Fatema.SpringAnnoPractice.Samsung"/>
+<fullyQualifiedTypeName name="com.Fatema.SpringAnnoPractice.AppConfig"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="com.Fatema.SpringAnnoPractice.MobileProcessor"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="com.Fatema.SpringAnnoPractice.Snapdragon"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.coursespring.springdemo.BaseballCoach"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.coursespring.springdemo.Coach"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+package com.Fatema.Practice;
+
+public class Bike {
+	public void ride()
+	
+}

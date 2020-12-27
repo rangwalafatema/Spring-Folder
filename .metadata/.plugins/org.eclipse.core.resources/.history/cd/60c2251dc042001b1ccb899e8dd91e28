@@ -1,0 +1,8 @@
+package com.Fatema.Practice;
+
+public class Bike {
+	public void ride()
+	{
+		System.out.println("Bhaag raha hai...");
+	}
+}

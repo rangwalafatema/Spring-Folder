@@ -1,0 +1,14 @@
+package com.Fatema.Practice;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+       Vehicle obj=new Bike();
+       obj.drive();
+    }
+}

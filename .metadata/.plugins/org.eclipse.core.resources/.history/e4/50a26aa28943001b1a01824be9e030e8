@@ -1,0 +1,13 @@
+package com.Fatema.Autowired_Practice;
+
+import org.omg.CORBA.PRIVATE_MEMBER;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Car implements Vehicle{
+	public void drive() {
+		
+		private 
+		System.out.println("Car");
+	}
+}
