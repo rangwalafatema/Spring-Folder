@@ -1,2 +1,2 @@
-# Spring-Folder
+# spring-practice
 Small Applications developed using Spring
